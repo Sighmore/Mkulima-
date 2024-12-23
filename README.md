@@ -44,6 +44,11 @@ Shamba is an intuitive Android application designed for tea farm managers to str
   </tr>
 </table>
 
+## GIF - App in Action
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a800e824-b84f-4ce1-bd5a-a658cec0be0b" alt="App GIF" width="300"/>
+</p>
+
 ## Technology Stack
 - **UI Framework**: Jetpack Compose
 - **Architecture**: MVVM
