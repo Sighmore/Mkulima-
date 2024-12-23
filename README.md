@@ -28,9 +28,6 @@ Shamba is a modern Android application designed to help tea farm managers effici
   - Dark/Light theme support
   - Intuitive navigation
 
-## Screenshots
-[Add your screenshots here]
-
 ## Technology Stack
 - **UI Framework**: Jetpack Compose
 - **Architecture**: MVVM
@@ -39,5 +36,5 @@ Shamba is a modern Android application designed to help tea farm managers effici
 - **Navigation**: Jetpack Navigation
 - **Concurrency**: Kotlin Coroutines & Flow
 
-## Architecture
+## Project Structure
 The app follows MVVM (Model-View-ViewModel) architecture and is organized into the following packages: 
